@@ -22,12 +22,12 @@ Concepts about Programming, AI, Statistics, etc.
 
 All of my assignments for this course are organized in the following folders:
 
-1. [<span style="color: #e74c3c;">Submission1</span>](./Submission1)
-2. [<span style="color: #e74c3c;">Submission2</span>](./Submission2)
-3. [<span style="color: #e74c3c;">Submission3</span>](./Submission3)
-4. [<span style="color: #e74c3c;">Submission4</span>](./Submission4)
-5. [<span style="color: #e74c3c;">Submission5</span>](./Submission5)
-6. [<span style="color: #e74c3c;">Submission6</span>](./Submission6)
-7. [<span style="color: #e74c3c;">Submission7</span>](./Submission7)
+1. [<span style="color: #e74c3c;">Submission 01</span>](./Submission1)
+2. [<span style="color: #e74c3c;">Submission 02</span>](./Submission2)
+3. [<span style="color: #e74c3c;">Submission 03</span>](./Submission3)
+4. [<span style="color: #e74c3c;">Submission 04</span>](./Submission4)
+5. [<span style="color: #e74c3c;">Submission 05</span>](./Submission5)
+6. [<span style="color: #e74c3c;">Submission 06</span>](./Submission6)
+7. [<span style="color: #e74c3c;">Submission 07</span>](./Submission7)
 
 Feel free to explore the respective folders to review my assignment submissions.
