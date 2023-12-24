@@ -20,6 +20,7 @@ Concepts about Programming, AI, Statistics, etc.
     Name:   Partha Debnath
     ID:     20301074
     Sec:    02
+    Semester: Fall 2023
 
 ## <span style="color: #f39c12;">Assignment Submission</span>
 
