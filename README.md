@@ -12,11 +12,14 @@ Concepts about Programming, AI, Statistics, etc.
 
 **<span style="color: #8e44ad;">Mr. Annajiat Alim Rasel</span>**  
 <span style="color: #95a5a6;">Senior Lecturer</span>  
-*<span style="color: #95a5a6;">Bio:</span>* Annajiat Alim Rasel received an M.Sc. degree in Computer Science and Engineering in 2019 from BRAC University, Bangladesh. He is currently serving as a Sr. Lecturer and Undergraduate Coordinator of the Department of Computer Science and Engineering (CSE) under the School of Data and Sciences (SDS) at BRAC University. He oversees the BRAC University Computer Club (BUCC) and IEEE Computer Society Student Branch Chapter as the faculty advisor. Prior to joining as a faculty member of the CSE department in 2009, he served as a Lab Tutor (aka Teaching Assistant) in the same department. Before that, he was a research intern at the Center for Research on Bangla Language Processing (CRBLP) lab at BRAC University. He participated in ACM ICPC related national and international programming competitions as a competitive programmer and as a coach.
+*<span style="color: #95a5a6;">Bio:</span>* Annajiat Alim Rasel received an M\.Sc. degree in Computer Science and Engineering in 2019 from BRAC University, Bangladesh. He is currently serving as a Sr. Lecturer and Undergraduate Coordinator of the Department of Computer Science and Engineering (CSE) under the School of Data and Sciences (SDS) at BRAC University. He oversees the BRAC University Computer Club (BUCC) and IEEE Computer Society Student Branch Chapter as the faculty advisor. Prior to joining as a faculty member of the CSE department in 2009, he served as a Lab Tutor (aka Teaching Assistant) in the same department. Before that, he was a research intern at the Center for Research on Bangla Language Processing (CRBLP) lab at BRAC University. He participated in ACM ICPC related national and international programming competitions as a competitive programmer and as a coach.
 
 ## <span style="color: #3498db;">Student Information</span>
 
-**<span style="color: #2ecc71;">Student ID: 20301074</span>**
+<!-- **<span style="color: #2ecc71;">Student ID: 20301074</span>** -->
+Name:   Partha Debnath
+ID: 20301074
+Sec:    02
 
 ## <span style="color: #f39c12;">Assignment Submission</span>
 
