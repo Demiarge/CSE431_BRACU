@@ -18,10 +18,10 @@ Concepts about Programming, AI, Statistics, etc.
 
 <!-- **<span style="color: #2ecc71;">Student ID: 20301074</span>** -->
 
-Name:   Partha Debnath
-ID:     20301074
-Sec:    02
-Semester: Fall 2023
+    Name:   Partha Debnath
+    ID:     20301074
+    Sec:    02
+    Semester: Fall 2023
 
 
 ## <span style="color: #f39c12;">Assignment Submission</span>
