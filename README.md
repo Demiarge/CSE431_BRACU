@@ -17,11 +17,9 @@ Concepts about Programming, AI, Statistics, etc.
 ## <span style="color: #3498db;">Student Information</span>
 
 <!-- **<span style="color: #2ecc71;">Student ID: 20301074</span>** -->
-Name:   Partha Debnath
-
-ID: 20301074
-
-Sec:    02
+    Name:   Partha Debnath
+    ID:     20301074
+    Sec:    02
 
 ## <span style="color: #f39c12;">Assignment Submission</span>
 
