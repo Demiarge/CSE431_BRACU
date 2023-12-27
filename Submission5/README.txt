@@ -7,7 +7,6 @@ Link to unlisted YouTube video:
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/12K4jMqIf878oToQ5iD0fd51KNJ2iGMZj/edit?usp=sharing&ouid=107298442973842578866&rtpof=true&sd=true
 
-
 Project title:
 Exploring Opinion Mining: The Power of Sentiment Analysis in Digital Communication
 
@@ -19,6 +18,5 @@ Group Members:
 20301407	NUSABA ISLAM 
 20301367	AWON BIN KAMRUL
 20301074	PARTHA DEBNATH
-
 
 We also correctly have uploaded slide.pptx here. 
