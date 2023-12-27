@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1Gv4l5WuVcpTKM1jMkzxjjBPbv2HkhWIkpECOqTEIGY4/edit?usp=sharing
+https://docs.google.com/presentation/d/12K4jMqIf878oToQ5iD0fd51KNJ2iGMZj/edit?usp=sharing&ouid=107298442973842578866&rtpof=true&sd=true
 
 
 Project title:
