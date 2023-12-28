@@ -7,6 +7,9 @@ https://docs.google.com/presentation/d/1zWer9karSoI6rxim_kIjNfYCnjspxE1u/edit?us
 Paper title:
 Data augmentation in natural language processing: a novel text generation approach for long and short text classifiers
 
+Group Number:
+38
+
 Link to the paper:
 https://link.springer.com/article/10.1007/s13042-022-01553-3
 

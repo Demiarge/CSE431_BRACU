@@ -10,6 +10,9 @@ From human writing to artificial intelligence generated text: examining the pros
 Link to the paper:
 https://www.termedia.pl/From-human-writing-to-artificial-intelligence-generated-text-examining-the-prospects-and-potential-threats-of-ChatGPT-in-academic-writing,78,50268,0,1.html
 
+Group Number:
+38
+
 Individual Submitter:
     Partha Debnath
     ID: 20301074
