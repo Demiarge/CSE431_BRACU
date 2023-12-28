@@ -21,6 +21,7 @@ Concepts about Programming, AI, Statistics, etc.
     Name:   Partha Debnath
     ID:     20301074
     Sec:    02
+    Group No: 38
     Semester: Fall 2023
 
 
